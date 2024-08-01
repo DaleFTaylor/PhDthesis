@@ -21,6 +21,8 @@ if (!requireNamespace("pacman", quietly = TRUE))
 ```
 
 ## Files
-#### Chapter 3 01AUG24.Rmd
+**Chapter 3 01AUG24.Rmd**
 
-#### Chapter 4 01AUG24.Rmd
+**Chapter 4 01AUG24.Rmd**
+
+_Raw data is currently not available due to the results being unpublished._
